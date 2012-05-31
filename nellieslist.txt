@@ -1,0 +1,5 @@
+This is a list of things I have seen that seem interesting, and that I'd 
+like to investigate further someday.
+
+http://dotfiles.github.com/ - other people's dot files (Paul Irish, Fluentconf, 20120531)
+https://github.com/adobe/brackets - new code editor, still under development (Fluentconf, 20120530)
